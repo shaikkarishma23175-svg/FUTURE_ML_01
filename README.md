@@ -12,6 +12,10 @@ This project focuses on analyzing Superstore sales data using Python and creatin
 - Customer Segment Analysis
 - Interactive Power BI Dashboard
 
+  ## Dashboard Preview
+
+![Superstore Dashboard](dashboard_screenshots/dashboard.png)
+
 ## Technologies Used
 - Python
 - Pandas
